@@ -1,2 +1,4 @@
-# sagar-app
-This is C# WinForm app to read Excel sheets and generate reports.
+# WPF - Desktop App
+
+This is C# WPF app to read Excel sheets and generate reports.
+It uses CSV too.
