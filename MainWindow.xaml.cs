@@ -23,6 +23,8 @@ namespace sagar_app
         public MainWindow()
         {
             InitializeComponent();
+            this.Title = Kvp.Util.Name;    
         }
+         
     }
 }
