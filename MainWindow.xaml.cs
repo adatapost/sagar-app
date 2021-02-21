@@ -25,6 +25,11 @@ namespace sagar_app
             InitializeComponent();
             this.Title = Kvp.Util.Name;    
         }
+
+        public void DoThat(Object sender, EventArgs e)
+        {
+            Button1.Content = "The red sun and red rose";
+        }
          
     }
 }
